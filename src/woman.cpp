@@ -10,6 +10,6 @@ Woman::Woman(int age, std::string name)      //scope resolution operator
 std::string Woman::to_string()
 {
 
-    return name + "is " + std::to_string(age) + " years old.";
+    return name + " is " + std::to_string(age) + " years old.";
 
 }

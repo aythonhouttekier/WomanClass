@@ -20,7 +20,5 @@ class Woman
         std::string name;
 
 
-
-
 };
 
